@@ -5,16 +5,15 @@ public class proble {
 		int mark;
 		int count;
 		
-	public static void main(String[] args, int n) {
+	//public static void main(String[] args, int n) {
 		// TODO Auto-generated method stub
 		
 		
-		int john= n;
-		int mark= 2 * n;
+	//	int john= n;
+		//int mark= 2 * n;
 		
-		for (count = int john + int mark);
+	//	for (count = int john + int mark);
 		
-				if ()
+	//			if ()
 	}
 
-}

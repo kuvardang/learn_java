@@ -8,7 +8,7 @@ public class person {
 	String haircolour;
 	
 	// pRef is refernce to picture object
-	// 5th obj
+	// 5th obj ( has a reln)
 	picture pRef;
 	
 	// methods
