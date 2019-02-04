@@ -27,11 +27,12 @@ public class googlepay {
 			
 	 paymode p1 = new paymode();
 	 p1.setpaymodeDetails("SBIVALA", "PNBVALA", "GPVALA", arr, orr);
-	 
+	 p1.showpaymodeDetails();
 	/* paymode p2 = new paymode();
 	 p2.setpaymodeDetails("ohi", "hmm", "wow", arr, orr); */
 	 
 				System.out.println("KITNE KHARCH DIYE?");
 				System.out.println(p1.debitc+"spent");
+				System.out.println();
 	}
 }
